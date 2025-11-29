@@ -8,12 +8,6 @@ Full commentary on this project is provided in the final paper. For access to th
 
 # Project Directory
 
-*data (this folder and its subfolders have been redacted due to GitHub size constraints)*
-- *processed (the cleaned, aggregated, and finalized versions of the datasets)*
-- *raw (the raw data sourced from Snowflake, orginating from Azure SQL DB and Salesforce)*
-- *sample (samples of each of the datasets used for code development and testing)*
-
-
 data_processing.ipynb (file contains the code used for reading in, cleaning, aggregating, and processing the data)
 
 exploratory_data_analysis.ipynb (file contains the code used for the EDA, PCA, and Social Network analysis)
