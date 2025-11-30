@@ -8,12 +8,16 @@ Full commentary on this project is provided in the final paper.
 
 # Project Directory
 
-data_processing.ipynb (file contains the code used for reading in, cleaning, aggregating, and processing the data)
+data_processing.ipynb 
+- file contains the code used for reading in, cleaning, aggregating, and processing the data
 
-exploratory_data_analysis.ipynb (file contains the code used for the EDA, PCA, and Social Network analysis)
+exploratory_data_analysis.ipynb 
+- file contains the code used for the EDA, PCA, and Social Network analysis
 
-model_training.ipynb (file contains the code used for KNN and NN model development, along with the hybrid implementation and error analysis)
+model_training.ipynb 
+- file contains the code used for KNN and NN model development, along with the hybrid implementation and error analysis
 
-snowflake_queries.sql (contains the SQL files ran in Snowflake to obtain the 'raw' data)
+snowflake_queries.sql 
+- contains the SQL files ran in Snowflake to obtain the 'raw' data
 
 *Note that code was written for and executed on a Macbook Pro M1 chip.*
